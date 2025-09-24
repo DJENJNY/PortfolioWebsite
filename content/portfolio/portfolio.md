@@ -11,4 +11,12 @@ externalLink = ""
 series = []
 +++
 
-My Portfolio
+PROJECTS:	
+Scalable 2-Tier Web Application w/ Kubernetes, Docker, & MongoDB
+Github
+3-Tier Web Application Deployment – Terraform + AWS
+Github
+DevOps Lab: VM Environment with NGINX Monitoring Stack
+Github
+Kubernetes Cluster Setup – "The Hard Way" on Vagrant
+Github

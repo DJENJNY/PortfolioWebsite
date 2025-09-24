@@ -13,7 +13,7 @@
       <link>http://localhost:1313/resume/resume/</link>
       <pubDate>Mon, 15 Sep 2025 09:37:25 -0500</pubDate>
       <guid>http://localhost:1313/resume/resume/</guid>
-      <description>&lt;p&gt;My Resume&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;cloud-engineer&#34;&gt;&#xA;  CLOUD ENGINEER&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#cloud-engineer&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Cloud Engineer with 4+ years of hands-on experience designing and deploying secure, scalable cloud infrastructure using tools like Terraform, Kubernetes, Docker, and AWS. Skilled in implementing observability stacks with Grafana, Loki, and Prometheus to support reliable system performance. Experienced in CI/CD, automation, and infrastructure as code to streamline development lifecycles. Proven ability to collaborate with cross-functional teams in fast-paced, agile environments to solve complex technical challenges and drive operational efficiency.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

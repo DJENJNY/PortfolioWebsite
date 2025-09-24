@@ -13,7 +13,7 @@
       <link>http://localhost:1313/portfolio/portfolio/</link>
       <pubDate>Thu, 18 Sep 2025 09:36:44 -0500</pubDate>
       <guid>http://localhost:1313/portfolio/portfolio/</guid>
-      <description>&lt;p&gt;My Portfolio&lt;/p&gt;</description>
+      <description>&lt;p&gt;PROJECTS:&#xA;Scalable 2-Tier Web Application w/ Kubernetes, Docker, &amp;amp; MongoDB&#xA;Github&#xA;3-Tier Web Application Deployment – Terraform + AWS&#xA;Github&#xA;DevOps Lab: VM Environment with NGINX Monitoring Stack&#xA;Github&#xA;Kubernetes Cluster Setup – &amp;ldquo;The Hard Way&amp;rdquo; on Vagrant&#xA;Github&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
