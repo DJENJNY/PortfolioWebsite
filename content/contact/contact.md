@@ -11,4 +11,7 @@ externalLink = ""
 series = []
 +++
 
-Contact Me Here
+- [LinkedIn](https://www.linkedin.com/in/mrjones318/)
+- [GitHub](https://github.com/DJENJNY)
+- [E-mail](mailto:ethan.jon32@gmail.com)
+- [Phone](tel:516-373-9905)

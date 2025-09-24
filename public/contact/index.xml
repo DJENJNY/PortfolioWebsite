@@ -13,7 +13,7 @@
       <link>http://localhost:1313/contact/contact/</link>
       <pubDate>Thu, 18 Sep 2025 09:37:18 -0500</pubDate>
       <guid>http://localhost:1313/contact/contact/</guid>
-      <description>&lt;p&gt;Contact Me Here&lt;/p&gt;</description>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/mrjones318/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/DJENJNY&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;mailto:ethan.jon32@gmail.com&#34; &gt;E-mail&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;tel:516-373-9905&#34; &gt;Phone&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
