@@ -2,8 +2,10 @@
 draft = true
 date = 2025-09-15T09:37:25-05:00
 title = "Resume"
+menu = "main"
+sectionPagesMenu = 'main'
 description = ""
-slug = ""
+slug = "resume"
 authors = []
 tags = []
 categories = []

@@ -2,6 +2,8 @@
 draft = true
 date = 2025-09-18T09:36:44-05:00
 title = "Portfolio"
+menu = "main"
+sectionPagesMenu = 'main'
 description = ""
 slug = ""
 authors = []
@@ -11,7 +13,7 @@ externalLink = ""
 series = []
 +++
 
-PROJECTS:	
+PROJECTS
 Scalable 2-Tier Web Application w/ Kubernetes, Docker, & MongoDB
 Github
 3-Tier Web Application Deployment – Terraform + AWS

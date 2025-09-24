@@ -10,37 +10,30 @@
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/contact/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Thu, 18 Sep 2025 09:37:18 -0500</pubDate>
-      <guid>http://localhost:1313/contact/contact/</guid>
+      <guid>http://localhost:1313/contact/</guid>
       <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/mrjones318/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/DJENJNY&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;mailto:ethan.jon32@gmail.com&#34; &gt;E-mail&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;tel:516-373-9905&#34; &gt;Phone&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Portfolio</title>
-      <link>http://localhost:1313/portfolio/portfolio/</link>
+      <link>http://localhost:1313/portfolio/</link>
       <pubDate>Thu, 18 Sep 2025 09:36:44 -0500</pubDate>
-      <guid>http://localhost:1313/portfolio/portfolio/</guid>
-      <description>&lt;p&gt;PROJECTS:&#xA;Scalable 2-Tier Web Application w/ Kubernetes, Docker, &amp;amp; MongoDB&#xA;Github&#xA;3-Tier Web Application Deployment – Terraform + AWS&#xA;Github&#xA;DevOps Lab: VM Environment with NGINX Monitoring Stack&#xA;Github&#xA;Kubernetes Cluster Setup – &amp;ldquo;The Hard Way&amp;rdquo; on Vagrant&#xA;Github&lt;/p&gt;</description>
+      <guid>http://localhost:1313/portfolio/</guid>
+      <description>&lt;p&gt;PROJECTS&#xA;Scalable 2-Tier Web Application w/ Kubernetes, Docker, &amp;amp; MongoDB&#xA;Github&#xA;3-Tier Web Application Deployment – Terraform + AWS&#xA;Github&#xA;DevOps Lab: VM Environment with NGINX Monitoring Stack&#xA;Github&#xA;Kubernetes Cluster Setup – &amp;ldquo;The Hard Way&amp;rdquo; on Vagrant&#xA;Github&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Wed, 17 Sep 2025 10:53:16 -0500</pubDate>
-      <guid>http://localhost:1313/about/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;p&gt;MY name is Ethan Jones - Cloud Engineer&lt;/p&gt;</description>
     </item>
     <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Wed, 17 Sep 2025 10:46:22 -0500</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;p&gt;This is my Resume Portfolio&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Resume</title>
-      <link>http://localhost:1313/resume/resume/</link>
+      <link>http://localhost:1313/resume/</link>
       <pubDate>Mon, 15 Sep 2025 09:37:25 -0500</pubDate>
-      <guid>http://localhost:1313/resume/resume/</guid>
+      <guid>http://localhost:1313/resume/</guid>
       <description>&lt;h2 id=&#34;cloud-engineer&#34;&gt;&#xA;  CLOUD ENGINEER&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#cloud-engineer&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Cloud Engineer with 4+ years of hands-on experience designing and deploying secure, scalable cloud infrastructure using tools like Terraform, Kubernetes, Docker, and AWS. Skilled in implementing observability stacks with Grafana, Loki, and Prometheus to support reliable system performance. Experienced in CI/CD, automation, and infrastructure as code to streamline development lifecycles. Proven ability to collaborate with cross-functional teams in fast-paced, agile environments to solve complex technical challenges and drive operational efficiency.&lt;/p&gt;</description>
     </item>
   </channel>
