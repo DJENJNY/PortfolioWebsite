@@ -1,5 +1,5 @@
 +++ 
-draft = true
+draft = false
 date = 2025-09-18T09:36:44-05:00
 title = "Portfolio"
 menu = "main"
