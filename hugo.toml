@@ -3,5 +3,9 @@ languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'hugo-coder'
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 sectionPagesMenu = 'main'
 
