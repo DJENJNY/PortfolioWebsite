@@ -9,7 +9,7 @@ theme = 'hugo-coder'
 
 [params]
   author = "Ethan Jones"
-  info = "Cloud Engineer | DevOps Enthusiast | DJ"
+  info = "Cloud Engineer"
   avatarURL = "img/profile.jpg"
   description = "Cloud Engineer"
 
@@ -24,6 +24,18 @@ theme = 'hugo-coder'
   icon = "fa fa-linkedin"
   weight = 2
   url = "https://linkedin.com/in/mrjones318"
+
+[[params.social]]
+  name = "Email"
+  icon = "fa-solid fa-envelope"
+  weight = 3
+  url = "https://mail.google.com/mail/?view=cm&to=ethan.jon32@gmail.com"
+
+[[params.social]]
+  name = "Phone"
+  icon = "fa-solid fa-phone"
+  weight = 4
+  url = "tel:516-373-9905"
 
 
 sectionPagesMenu = 'main'
