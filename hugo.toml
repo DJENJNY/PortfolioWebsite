@@ -37,6 +37,10 @@ theme = 'hugo-coder'
   weight = 4
   url = "tel:516-373-9905"
 
+[params]
+  customCSS = ["css/custom.css"]
+
+
 
 sectionPagesMenu = 'main'
 

@@ -5,4 +5,14 @@
     border-radius: 50%;  /* keep it circular */
     object-fit: cover;   /* prevents distortion */
   }
+
+  /* Make all social icons bigger */
+.social a i {
+    font-size: 2rem;   /* default is ~1.2rem */
+  }
+  
+  /* Optional: adjust spacing between icons */
+  .social a {
+    margin: 0 10px;
+  }
   
