@@ -7,7 +7,26 @@ theme = 'hugo-coder'
   [caches.images]
     dir = ':cacheDir/images'
 
+[params]
+  author = "Ethan Jones"
+  info = "Cloud Engineer | DevOps Enthusiast | DJ"
+  avatarURL = "img/profile.jpg"
+  description = "Cloud Engineer"
+
+[[params.social]]
+  name = "GitHub"
+  icon = "fa fa-github"
+  weight = 1
+  url = "https://github.com/djenjny"
+
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa fa-linkedin"
+  weight = 2
+  url = "https://linkedin.com/in/mrjones318"
+
+
 sectionPagesMenu = 'main'
 
-### My name is ethan jones
+
 
