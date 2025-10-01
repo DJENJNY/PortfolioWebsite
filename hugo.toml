@@ -8,6 +8,7 @@ theme = 'hugo-coder'
     dir = ':cacheDir/images'
 
 [params]
+  customCSS = ["css/custom.css"]
   author = "Ethan Jones"
   info = "Cloud Engineer"
   avatarURL = "img/profile.jpg"
@@ -36,11 +37,6 @@ theme = 'hugo-coder'
   icon = "fa-solid fa-phone"
   weight = 4
   url = "tel:516-373-9905"
-
-[params]
-  customCSS = ["css/custom.css"]
-
-
 
 sectionPagesMenu = 'main'
 
