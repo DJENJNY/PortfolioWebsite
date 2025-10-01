@@ -1,6 +1,6 @@
 baseURL = 'https://djenjny.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Ethan Jones'
 theme = 'hugo-coder'
 
 [caches]
