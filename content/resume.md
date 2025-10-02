@@ -70,7 +70,7 @@ Cloud Engineer with 4+ years of hands-on experience designing and deploying secu
 
 ## PROFESSIONAL EXPERIENCE
 
-### Cloud Engineer Apprentice (1:1) | Tech For The Culture Mentorship (1/2025 - Present)
+### Cloud Engineer | TFTC (1:1) ~600+ hours (≈20 hrs/week) (1/2025 - Present)
 
 - Built and operated AWS environments with Terraform (VPC, IAM, EC2/EKS, ALB, autoscaling); created reusable modules and idempotent plans, reducing infra deploy time from ~45 min to ~8 min (≈−82%) across dev/stage/prod.
 - Containerized applications with Docker for production and Docker Compose for local multi-service stacks; designed images for security/perf (multi-stage builds, minimal bases, SBOM/scanning).

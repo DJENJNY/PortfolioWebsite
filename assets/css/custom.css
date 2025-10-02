@@ -1,7 +1,7 @@
 /* Change size of the profile picture */
 .profile .avatar img {
-    width: 300px;   /* default ~110px */
-    height: 300px;  /* keep it square */
+    width: 700px;   /* default ~110px */
+    height: 700px;  /* keep it square */
     border-radius: 50%;  /* keep it circular */
     object-fit: cover;   /* prevents distortion */
   }
