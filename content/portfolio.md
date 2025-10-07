@@ -17,6 +17,12 @@ series = []
 
 ## Scalable 2-Tier Web Application w/ Kubernetes, Docker, & MongoDB
 [Github](https://github.com/DJENJNY/Wiz-Project)
+- Provisioned AWS infrastructure with Terraform, deploying a full EKS-based environment (VPC, IAM roles, networking, EC2) to support a secure, scalable microservices architecture.
+- Containerized and deployed applications via Docker and Helm on EKS, implementing Ingress/ALB for external access and rolling updates for zero downtime.
+- Integrated CI/CD pipelines using GitHub Actions to automate Docker image builds, ECR pushes, Terraform plans/applies, and Kubernetes deployments—cutting manual steps by 80%.
+- Configured MongoDB backend for persistent data storage, secured credentials through Kubernetes secrets, and optimized database initialization scripts for reliability.
+- Applied AWS security best practices including IAM least-privilege policies, OIDC service accounts, and secret management to ensure compliance and isolation between services.
+- Documented the full deployment process (IaC setup, Helm releases, and troubleshooting) to improve environment reproducibility and onboarding efficiency by 50%.
 -- 
 
 
