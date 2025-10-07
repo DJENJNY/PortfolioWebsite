@@ -23,7 +23,6 @@ series = []
 - Configured MongoDB backend for persistent data storage, secured credentials through Kubernetes secrets, and optimized database initialization scripts for reliability.
 - Applied AWS security best practices including IAM least-privilege policies, OIDC service accounts, and secret management to ensure compliance and isolation between services.
 - Documented the full deployment process (IaC setup, Helm releases, and troubleshooting) to improve environment reproducibility and onboarding efficiency by 50%.
--- 
 
 
 ## 3-Tier Web Application Deployment – Terraform + AWS
