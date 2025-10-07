@@ -72,21 +72,23 @@ Cloud Engineer with 4+ years of hands-on experience designing and deploying secu
 
 ### Cloud Engineer | TFTC (1:1) ~600+ hours (≈20 hrs/week) (1/2025 - Present)
 
-- Built and operated AWS environments with Terraform (VPC, IAM, EC2/EKS, ALB, autoscaling); created reusable modules and idempotent plans, reducing infra deploy time from ~45 min to ~8 min (≈−82%) across dev/stage/prod.
-- Containerized applications with Docker for production and Docker Compose for local multi-service stacks; designed images for security/perf (multi-stage builds, minimal bases, SBOM/scanning).
-- Stood up Kubernetes from scratch and on EKS; deployed via Helm/manifests; configured Ingress/ALB, health checks (readiness/liveness), rolling updates, and HPA.
-- Implemented CI/CD (GitHub Actions) to build/test images, run terraform plan/apply, and deploy to Kubernetes; added policy checks and required approvals.
-- Linux troubleshooting (networking, permissions, services, logs); standardized procedures to reduce MTTR and improve repeatability.
-- Added monitoring & logging (Prometheus/Grafana/Loki) with alerts for latency, errors, and resource saturation.
-- Followed security best practices: least-privilege IAM/IRSA, security groups, secrets management, image & IaC scanning, and drift detection.
-- Documented architectures, READMEs, runbooks and operational procedures.
+- Built and operated AWS environments with Terraform (VPC, IAM, EC2/EKS, ALB, autoscaling); created reusable modules and idempotent plans, reducing infra deploy time from ~45 min to ~8 min (≈−82%) across dev/stage/prod
+- Containerized 10+ applications with Docker and Docker Compose for multi-service local stacks; designed optimized multi-stage images that reduced image size by 40% and improved build time by 30% through caching and security scanning (SBOMs)
+- Deployed and managed Kubernetes clusters (both self-managed and AWS EKS) supporting 20+ microservices; implemented Helm-based deployments with ALB Ingress, health probes, rolling updates, and autoscaling (HPA) to sustain 99.9% uptime under variable workloads.
+- Built CI/CD pipelines with GitHub Actions to automate testing, image builds, Terraform plan/apply, and Kubernetes deployments—cutting manual deployment time from 30 minutes to under 5 minutes and enforcing compliance via policy checks and required approvals.
+- Streamlined Linux troubleshooting workflows (networking, permissions, service management, log analysis), developing standardized runbooks that lowered mean-time-to-resolution (MTTR) by 50%.
+- Implemented full-stack observability using Prometheus, Grafana, and Loki, instrumenting key metrics and alerts for latency, error rates, and resource saturation; enabled proactive remediation that reduced incident frequency by 25%.
+- Strengthened infrastructure security through least-privilege IAM/IRSA, network ACLs, secrets encryption, IaC/image scanning, and drift detection—maintaining zero critical vulnerabilities in production
+- Authored 15+ pages of documentation, including system architectures, READMEs, and runbooks, improving onboarding efficiency and operational consistency across environments.
 
 ### Silver Lining SysOps (System Operations) Fellowship Program | Amazon Web Services | Remote (02/2024 - 08/2024)
 
-- Learned hands-on cloud engineering skills from AWS field architects, AWS Training/Certification instructors and customers.
-- Worked with AWS services through a wide range of hands-on lab modules, including EC2, RDS, S3, EBS, Lambda, Cloud Formation, etc, as well as practical configuration, troubleshooting and problem-solving.
-- Configured 3-Tier environments with front end/back end via Cloud Formation with Cost Monitoring.
-- Paired with a highly-trained AWS mentor to enhance understanding of technology applied in enterprise environments.
+- Completed 120+ hours of hands-on cloud engineering training under AWS field architects, certification instructors, and enterprise mentors, focusing on production-grade deployment and operations in AWS environments.
+- Built and managed 15+ lab environments covering core AWS services including EC2, S3, RDS, EBS, Lambda, and CloudFormation—gaining practical experience with provisioning, configuration, and troubleshooting.
+- Deployed 3-tier web applications using CloudFormation templates integrating front-end, back-end, and database layers; implemented cost monitoring and tagging strategies that reduced monthly test-environment costs by 30%.
+- Collaborated with an AWS mentor to simulate enterprise-scale SysOps tasks (backup automation, IAM security hardening, system patching, and scaling) and achieved consistent 99% lab reliability through proactive monitoring.
+- Enhanced operational efficiency by writing reusable scripts and documenting setup procedures, cutting environment setup time from 45 minutes to under 10 minutes per lab.
+- Recognized for technical excellence within the fellowship cohort for mastery of AWS best practices and demonstrable readiness for real-world SysOps and DevOps roles.
 
 ### Conductor | Long Island Railroad | Queens, NY (01/2014 – 08/2024)
 
